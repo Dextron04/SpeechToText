@@ -1,4 +1,3 @@
-from tkinter import *
 import pyttsx3
 import speech_recognition as sr
 
